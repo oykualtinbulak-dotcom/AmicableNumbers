@@ -1,0 +1,16 @@
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\bin\Debug\net10.0\DostSayılar.exe
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\bin\Debug\net10.0\DostSayılar.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\bin\Debug\net10.0\DostSayılar.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\bin\Debug\net10.0\DostSayılar.runtimeconfig.dev.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\bin\Debug\net10.0\DostSayılar.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\bin\Debug\net10.0\DostSayılar.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\DostSayılar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\DostSayılar.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\DostSayılar.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\DostSayılar.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\DostSayılar.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\refint\DostSayılar.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\DostSayılar.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\DostSayılar.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\ref\DostSayılar.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\DostSayılar\obj\Debug\net10.0\DostSay_.334A739E.Up2Date
